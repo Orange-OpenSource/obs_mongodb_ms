@@ -1,0 +1,7 @@
+MongoDB deployement and maintenance scripts.
+Simples scripts used to deploy and maintain the MongoDB databases that are made availbale to its clients.
+
+mongo_dump_bkp.sh : backup script
+mongo_exp_bogen01.sh : mongo export
+mongo_cp_int.sh : copy backup file
+db1.profile : variables definition (should be called in bash_profile)
